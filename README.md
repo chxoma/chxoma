@@ -1,8 +1,8 @@
-- 👋 Hello all, I’m @chxoma
+- 👋 Hello all, I’m Chioma
 - 👀 I’m interested in front and backend development
 - 🌱 I’m currently learning UX design
 - 💞️ I’m looking to collaborate on anything I can get my hands on
-- 📫 You can contact me through my LinkedIn! https://www.linkedin.com/in/chiomanwizu/
+- 📫 You can contact me through my [LinkedIn](https://www.linkedin.com/in/chiomanwizu/)!
 
 <!---
 chxoma/chxoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
